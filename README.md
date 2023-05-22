@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dspalacios26
-- 👀 I’m interested in becoming a full stack dev.
 - 🌱 I’m currently studying Software Techonology Engineering educational program.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 ig [ ssebas.palacioss ]
 
