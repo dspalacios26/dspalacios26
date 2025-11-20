@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @dspalacios26
-- 🌱 I’m currently studying Software Techonology Engineering educational program.
+hello, i’m @dspalacios26 and i'm a swe.
+
+
+specialized and passionate on advanced algorithms, efficiency & optimizations.
 
 <!---
 dspalacios26/dspalacios26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
